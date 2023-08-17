@@ -1,0 +1,1 @@
+print("Ahmed's love Haiqa and also Haiqa love Ahmed")
