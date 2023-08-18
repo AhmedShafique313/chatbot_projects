@@ -26,6 +26,8 @@ print(SentenceToken)
 WordToken = word_tokens[:4]
 print(WordToken)
 
+print("\n \n \n \n          ChatBOT loading...  \n \n \n ")
+
 # Preprocessing
 Lemmer = nltk.stem.WordNetLemmatizer()
 
@@ -38,8 +40,8 @@ def LemNormalize(text):
     return LemTokens(nltk.word_tokenize(text.lower().translate(Remove_Punctuation_from_Dictionary)))
 
 # Greetings function
-Greeting_Input = ("Hi", "Hello", "Whats UP", "hey")
-Greeting_Response = ("hi", "hey", "hello", "Hi")
+Greeting_Input = ("hi", "hello", "whats UP", "hey", "hi there", "hye", "salam")
+Greeting_Response = ("hi", "hey", "hello", "Hi", "salam", "hi there", "whats up")
 
 def Greetings(scentences):
     for word in scentences.split():
@@ -68,12 +70,12 @@ def Response(User_Response):
 # Main loop
 if __name__ == "__main__":
     flag = True
-    print("This is a chatbot to answer your questions.")
+    print("This is Udemy ChatBOT for answer your questions... ")
     while flag:
         User_Response = input()
         User_Response = User_Response.lower()
-        if User_Response != "bye":
-            if User_Response == "thanks" or User_Response == "thank you":
+        if User_Response != "bye" or User_Response!= "Bye":
+            if User_Response == "thanks" or User_Response == "thank you" or User_Response == "thankyou":
                 flag = False
                 print("You're welcome!")
             else:

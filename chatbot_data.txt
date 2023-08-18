@@ -1,9 +1,32 @@
-Hi there,
+What can I help you?
 
-What can I hep you?
+What kind of information you need to know?
 
-You know details about some electronic products like PCB designing, IOT devices and much more.
+So, we are providing two types of courses paid and free courses.
 
-IEO TECH providing 24 layer PCB with silicon soldering machine technology.
+Paid courses have content of more then two hours.
 
-We made different types of IOT devices for the purpose to automate the home and inductries.
+Free courses have content of about two hours.
+
+We are providing Engineering and Non-Engineering courses.
+
+Non-engineering include Business Analysis, Digital marketing, Graphic designing, Statictics and Literature.
+
+Engineering courses include Electrical, Computer Science, Mechanical, Chemical, Civil, Biomedical Engineering courses.
+
+Electrical course include IOT, robotics, Power, VHDL, electronics, embedded systems, Machine Learning.
+
+Computer Science courses include Artificial Intelligence, Data Science, DevOps, Cloud computing and programming languages like Flutter, C/C++, java, python etc.
+
+Staring price of paid course is from 19 Dollars to 74 Dollars.
+
+Perks of paid courses are Certificates, Downloadable content, access to instructors and 30 days money back guarantee.
+
+Paid courses length is different for different courses like paid programming courses length is upto 40 hours.
+
+Sorry, we dont have any content on any religion, political party and history.
+
+No, Udemy dont allow instructors to teach students on site.
+
+We have 1500 instructors and have 200k plus courses.
+
